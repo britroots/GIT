@@ -1,0 +1,28 @@
+	h1, h2, h3, p {
+				background-color: none;
+				font-family: sans-serif;
+				font-size: 45px
+				font-weight: bolder;
+				margin-top: 0;
+				margin-bottom: 1rem;
+							}
+			#bodycontent {
+				background-color: pink;
+			}
+
+			#secondbody {
+				background-color: grey;
+				font-size: 3.5rem
+				font-weight: 300;
+				line-height: 1.2:
+				font: sans-serif;
+			}
+			
+
+
+	section {
+		padding: :4rem 2rem;
+		margin-bottom: 2rem;
+		border-radius: .3rem;
+
+	}
